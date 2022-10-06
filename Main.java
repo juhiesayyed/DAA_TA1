@@ -3,7 +3,7 @@ import java.util.*;
 import java.text.DecimalFormat;
 import java.io.*;
 
-
+//class to calculate Best Distance
 class TSPDistance {
      int N;
      int START_NODE;
@@ -106,7 +106,7 @@ class TSPDistance {
     }
 }
 
-
+//class to calculate Best Time
 class TSP_Time {
      final int N;
      final int START_NODE;
@@ -209,6 +209,7 @@ class TSP_Time {
 
 }
 
+//class to calculate Best Distance and Time
 class TSPDistanceTime {
 
      int N;
