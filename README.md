@@ -1,8 +1,8 @@
 # DAA_TA1
 Travelling Salesman Problem using Dynamic Programming in which sets of nodes are given and we have to find 
-1) Best Distance
-2) Best Time
-3) And the combination of both
+1) The path has the Least Distance Cost
+2) The path has the Least Time Cost
+3) The path has a Decent Distance and Time Cost
 
 ## Explanation:
 In the traveling salesman Problem, a salesman must visits n cities. visiting each city exactly once and finishing at the city he starts from. There is a non-negative cost c (i, j) to travel from the city i to city j. The goal is to find a tour of minimum cost. We assume that every two cities are connected. Such problems are called Traveling-salesman problem (TSP).
